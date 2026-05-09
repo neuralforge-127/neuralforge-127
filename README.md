@@ -1,22 +1,26 @@
 <h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
 
 <p align="center">
-  <h3 align="center">AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator</h3>
+  <h3 align="center">Full-Stack Engineer | Web3 Builder | AI/ML Product Developer</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 🤖 Specialize in developing <strong>end-to-end AI solutions</strong> from model design and training to deployment and <strong>real-time inference</strong>.<br>
+- ⚙️ Build <strong>full-stack products</strong> across front end, APIs, databases, infra, and DevOps—from prototypes to production.<br>
 
-- 🧠 Exploring cutting-edge domains like <strong>LLMs</strong>, <strong>computer vision</strong>, <strong>NLP</strong>, <strong>agentic AI</strong>, and <strong>autonomous systems</strong>.<br>
+- ⛓️ Ship <strong>Web3</strong> experiences: smart contracts, wallets &amp; signatures, NFTs/marketplaces, and <strong>dapps</strong> on major chains.<br>
 
-- 🔗 Integrating AI into <strong>interactive applications</strong>, <strong>immersive 3D environments</strong>, and <strong>decentralized platforms</strong>.<br>
+- 🤖 Design and deploy <strong>end-to-end AI</strong>: training, inference, <strong>RAG/agents</strong>, and integrations that sit behind real user flows.<br>
 
-- 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and collaborating on <strong>groundbreaking AI projects</strong>.<br>
+- 🧠 Work across <strong>LLMs</strong>, vision, NLP, automation, and <strong>agentic</strong> workflows—always tied to usable software, not demos alone.<br>
 
-- 📚 Lifelong learner in <strong>AI research</strong>, personal development, and <strong>financial systems</strong>.<br>
+- 🔗 Connect the stack: <strong>AI + Web3 + web/mobile</strong> in one coherent architecture (auth, payments, on-chain state, and model APIs).<br>
 
-- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when I am building the future with <strong>AI</strong>.
+- 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and shipping projects that blend <strong>intelligent</strong>, <strong>decentralized</strong>, and <strong>traditional</strong> systems.<br>
+
+- 📚 Always learning—in <strong>systems design</strong>, protocol economics, and <strong>ML research</strong>—to ship responsibly and scalably.<br>
+
+- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — ship full-stack apps, decentralized protocols, and <strong>AI</strong>-powered products that last.
 
 <h4 align="center">
  Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
@@ -28,17 +32,17 @@
 <table>
   <tr>
   <td width="60%">
-  - 🧠 AI/ML Systems & Deep Learning Models
+  - 🖥️ Full-stack apps: React/Next.js, APIs, Postgres/Mongo, auth, queues, cloud &amp; containers
     </br></br>
-  - 🤖 Agentic AI & Autonomous Workflows
+  - ⛓️ Web3 &amp; blockchain: Solidity, wallets, NFTs/DeFi primitives, indexers &amp; on-chain event pipelines, multisig flows
     </br></br>
-  - 🔍 AI Search & Recommendation Systems
+  - 🔗 Bridges: backend ↔ smart contracts ↔ AI features (signature flows, gateways, moderation, pricing)
     </br></br>
-  - 💬 AI Voice & Chat Systems
+  - 🤖 AI/ML Systems: models, embeddings, LangChain/RAG-style stacks, inference &amp; cost-aware deployment
     </br></br>
-  - 🌐 Web & Mobile Apps Powered by AI
+  - 🧠 Agents &amp; Automation: workflows, tooling, integrations (n8n, APIs, SaaS backends)
     </br></br>
-  - 📈 Intelligent SaaS, CRM, and Automation Tools
+  - 📈 Product SaaS &amp; internal tools: CRM/automation, analytics, and operational dashboards
   </td>
   <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
