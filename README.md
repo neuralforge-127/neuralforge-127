@@ -112,18 +112,3 @@
 <img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
 <h1 align="center"></h1>
 </br>
-
-![GitHub followers](https://img.shields.io/github/followers/niklasengeltech?style=social)
-
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
-
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
-
-![Website](https://img.shields.io/badge/Website-Portfolio-blue)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
