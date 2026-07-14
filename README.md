@@ -1,112 +1,96 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Agile Passionate Creative Developer</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m a Passionate AI Engineer</h1>
 
 <p align="center">
-  <h3 align="center">Full-Stack Engineer | Web3 Builder | AI/ML Product Developer</h3>
+  <h3 align="center">AI Engineer | LLM & RAG Specialist | Intelligent Automation Developer</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- ⚙️ Build <strong>full-stack products</strong> across front end, APIs, databases, infra, and DevOps—from prototypes to production.<br>
+- 🤖 Build <strong>production-ready AI systems</strong> that solve real business problems—from proof of concept to deployment.<br>
 
-- ⛓️ Ship <strong>Web3</strong> experiences: smart contracts, wallets &amp; signatures, NFTs/marketplaces, and <strong>dapps</strong> on major chains.<br>
+- 🧠 Design and deploy <strong>LLM applications</strong>, including RAG systems, AI agents, semantic search, document intelligence, and conversational assistants.<br>
 
-- 🤖 Design and deploy <strong>end-to-end AI</strong>: training, inference, <strong>RAG/agents</strong>, and integrations that sit behind real user flows.<br>
+- 📚 Develop <strong>knowledge-grounded AI</strong> using embeddings, vector databases, hybrid retrieval, reranking, metadata filtering, and evaluation pipelines.<br>
 
-- 🧠 Work across <strong>LLMs</strong>, vision, NLP, automation, and <strong>agentic</strong> workflows—always tied to usable software, not demos alone.<br>
+- ⚙️ Create <strong>AI automation workflows</strong> that connect models with APIs, business tools, databases, documents, and operational processes.<br>
 
-- 🔗 Connect the stack: <strong>AI + Web3 + web/mobile</strong> in one coherent architecture (auth, payments, on-chain state, and model APIs).<br>
+- 👁️ Work across <strong>natural language processing, computer vision, speech AI, multimodal models, and predictive machine learning</strong>.<br>
 
-- 💡 Passionate about <strong>open source</strong>, <strong>emerging tech</strong>, and shipping projects that blend <strong>intelligent</strong>, <strong>decentralized</strong>, and <strong>traditional</strong> systems.<br>
+- 🚀 Optimize AI systems for <strong>accuracy, latency, scalability, reliability, privacy, and inference cost</strong>.<br>
 
-- 📚 Always learning—in <strong>systems design</strong>, protocol economics, and <strong>ML research</strong>—to ship responsibly and scalably.<br>
+- 🔬 Evaluate models with structured benchmarks, prompt testing, retrieval metrics, hallucination analysis, and human feedback.<br>
 
-- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — ship full-stack apps, decentralized protocols, and <strong>AI</strong>-powered products that last.
+- 💡 Passionate about <strong>open-source AI</strong>, local inference, responsible AI, and turning emerging research into practical products.<br>
+
+- ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — build intelligent systems that are useful, reliable, and ready for the real world.
 
 <h4 align="center">
- Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+ Let’s build intelligent products together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
 </h4>
 </p>
 
-## What can I do:
+## What I Can Do
 
 <table>
   <tr>
   <td width="60%">
-  - 🖥️ Full-stack apps: React/Next.js, APIs, Postgres/Mongo, auth, queues, cloud &amp; containers
+  - 🤖 <strong>LLM Applications:</strong> AI assistants, copilots, chatbots, document analysis, structured generation, and model-powered product features
     </br></br>
-  - ⛓️ Web3 &amp; blockchain: Solidity, wallets, NFTs/DeFi primitives, indexers &amp; on-chain event pipelines, multisig flows
+  - 📚 <strong>RAG & Semantic Search:</strong> embeddings, vector databases, hybrid retrieval, reranking, metadata filtering, citations, and evaluation
     </br></br>
-  - 🔗 Bridges: backend ↔ smart contracts ↔ AI features (signature flows, gateways, moderation, pricing)
+  - 🧠 <strong>AI Agents:</strong> tool calling, planning, memory, multi-step workflows, guardrails, and human-in-the-loop systems
     </br></br>
-  - 🤖 AI/ML Systems: models, embeddings, LangChain/RAG-style stacks, inference &amp; cost-aware deployment
+  - 🔬 <strong>Machine Learning:</strong> data preparation, feature engineering, training, fine-tuning, evaluation, experimentation, and model selection
     </br></br>
-  - 🧠 Agents &amp; Automation: workflows, tooling, integrations (n8n, APIs, SaaS backends)
+  - 👁️ <strong>Multimodal AI:</strong> computer vision, OCR pipelines, image understanding, speech processing, and vision-language models
     </br></br>
-  - 📈 Product SaaS &amp; internal tools: CRM/automation, analytics, and operational dashboards
+  - ⚙️ <strong>AI Automation:</strong> intelligent workflows, API integrations, document processing, CRM automation, and operational assistants
+    </br></br>
+  - 🚀 <strong>AI Deployment & Optimization:</strong> model serving, local inference, GPU workloads, caching, monitoring, latency reduction, and cost control
+    </br></br>
+  - 🛡️ <strong>Reliable AI Systems:</strong> prompt security, hallucination reduction, privacy-focused architecture, observability, testing, and responsible AI practices
   </td>
-  <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
+  <td width="35%"><img alt="AI Engineering GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
 </table>
 
-## My Skills
+## My AI Skills
 
 <table>
   <tr>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true" width="200" alt="OpenAI"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true" width="200" alt="Claude"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200" alt="Anthropic"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200" alt="Hugging Face"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true" width="200" alt="LangChain"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true" width="200" alt="DeepSeek"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true" width="200" alt="Retell AI"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true" width="200" alt="RunPod"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true" width="200" alt="Botpress"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true" width="200" alt="Voiceflow"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true" width="200" alt="Pinecone"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true" width="200" alt="FAISS"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/flutter.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/android.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/iOS.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/bitcoin.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/ethereum.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solana.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solidity.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/NFT.jpg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200" alt="Python"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200" alt="FastAPI"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200" alt="PostgreSQL"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200" alt="MongoDB"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200" alt="Docker"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200" alt="Kubernetes"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200" alt="AWS"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200" alt="Azure"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200" alt="Google Cloud"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200" alt="Git"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200" alt="n8n"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true" width="200" alt="Make"></td>
   </tr>
 </table>
+
+## Core Technologies
+
+<p align="center">
+  <strong>Python · PyTorch · TensorFlow · Transformers · Hugging Face · OpenAI · Anthropic · LangChain · LlamaIndex · RAG · AI Agents · NLP · Computer Vision · Speech AI · Vector Databases · Pinecone · FAISS · PostgreSQL · FastAPI · Docker · Kubernetes · AWS · Azure · Google Cloud · RunPod · n8n · Model Evaluation · Prompt Engineering · Fine-Tuning · Local LLMs</strong>
+</p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
 <img align="right" src="https://img.shields.io/github/followers/lucyhunter9411?label=Follow&style=social" />
